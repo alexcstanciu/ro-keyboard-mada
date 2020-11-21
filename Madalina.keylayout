@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 3.0.4.75 on 2016-07-11 at 15:14 (GMT+3)-->
 <!--Last edited by Ukelele version 3.4.2.314 on 2020-11-21 at 13:59 (EET)-->
-<keyboard group="126" id="-14150" name="Romanian Programmers" maxout="1">
+<keyboard group="126" id="-14151" name="Madalina" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
         <layout first="18" last="18" mapSet="JIS" modifiers="Modifiers"/>
